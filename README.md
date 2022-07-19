@@ -4,7 +4,7 @@ This is the code that powers Apollo's core.
 
 
 ## Initializing the Project
-Install all required packages using the ```sh npm i``` command.
+Install all required packages using the ```npm i``` command.
 Open the .example-env file, and rename to .env and add all necessary vars there.
 
 ## Missing files?
