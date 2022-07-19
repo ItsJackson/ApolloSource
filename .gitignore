@@ -1,0 +1,19 @@
+# Preferences
+.env
+package-lock.json
+.vscode
+
+
+
+
+# Folders
+node_modules
+assets
+commands
+Docker
+Models
+Managers
+
+
+# Misc
+Procfile
